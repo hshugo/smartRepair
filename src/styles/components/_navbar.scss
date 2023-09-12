@@ -1,0 +1,9 @@
+//file_property
+.navbar_container {
+  p {
+    color: $main;
+    &:hover {
+      color: $secondary;
+    }
+  }
+}
